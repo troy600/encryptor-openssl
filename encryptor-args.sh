@@ -1,4 +1,4 @@
-#!$HOME/../usr/bin/bash
+#!/usr/bin/bash
 
 key="$(cat ~/.config/keyfile.key)"
 
