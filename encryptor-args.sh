@@ -26,7 +26,7 @@ required:
 full command:
     encryptor.sh -d 'filename' -out 'output file'
     encryptor.sh -e 'filename' -out 'output filename'
-    encryptor.sh -dr 'encrypted file' -out 'out file(will deleted after read nlby vim'
+    encryptor.sh -dr 'encrypted file' -out 'out file(will deleted after read by vim)'
     encryptor.sh -dd 'directory/'
     encryptor.sh -ed 'directory/'
 
