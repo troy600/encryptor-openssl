@@ -32,7 +32,7 @@ full command:
 
 
 
-Copyright Cyrus Troy Bazar
+Copyright Cyrus Troy Bazar and the DSA students
     "
 }
 
